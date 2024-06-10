@@ -1,7 +1,7 @@
 "use client"
 
 import Button from "../components/Button";
-import { FaBars } from "react-icons/fa6";
+import  {FaBars}  from "react-icons/fa6";
 import { useState } from "react";
 import Image from "next/image";
 import logo from "../assets/Inspire_me (4).png"
