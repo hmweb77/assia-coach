@@ -1,9 +1,8 @@
 import HeadingText from "../components/HeadingText";
-import { FaEnvelope, FaPhone } from "react-icons/fa6";
-// import EventCard from "../components/EventCard";
+
 import backgroundOverlay from "../assets/Background-overlay.png";
 import Image from "next/image";
-// import { eventData } from "../libs/constants";
+
 
 const Events = () => {
   return (
