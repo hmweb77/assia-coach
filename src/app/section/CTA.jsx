@@ -15,7 +15,7 @@ const CTA = () => {
 				<Button zIndex="z-10">Book Now</Button>
 				<Image
 					src={ctaImg}
-					alt=""
+					alt="image"
 					className="absolute inset-0 z-0 h-full w-full"
 				/>
 			</div>

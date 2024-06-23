@@ -2,7 +2,7 @@ import HeadingText from "../components/HeadingText";
 import ParagraphText from "../components/ParagraphText";
 import Image from "next/image";
 import Button from "../components/Button";
-import her from "../assets/heroImg.jpg";
+import her from "../assets/heromg.png";
 
 const Hero = () => {
   return (
@@ -24,6 +24,7 @@ const Hero = () => {
         </div>
         <Image
           src={her}
+          alt="image"
           className="lg:basis-4/12  md:h-[805px] md:w-[650px] lg:h-auto lg:w-auto mx-auto"
         />
       </div>

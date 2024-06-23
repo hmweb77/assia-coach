@@ -11,7 +11,7 @@ const TestimonialCard = ({ name, jobTitle, comment }) => {
 			<div className="px-10 py-8 ">
 				<Image
 					src={quote}
-					alt=""
+					alt="image"
 					className="h-12 w-12 mb-5"
 				/>
 				<ParagraphText extraStyle="text-base mb-5">{comment}</ParagraphText>

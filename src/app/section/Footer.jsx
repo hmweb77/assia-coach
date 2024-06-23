@@ -11,7 +11,7 @@ const Foot = () => {
 			},
 			{
 				title: "Contact",
-				list: ["Jl. Umalas 1 No.3, Kerobokan Kelod, Badung, Bali", "+62 (522) 9805084", "support@domain.com"],
+				list: ["Jl. Umalas 1 No.3, Kerobokan Kelo, Lisbon", "+351 000 000 000", "support@domain.com"],
 			},
 		],
 	};

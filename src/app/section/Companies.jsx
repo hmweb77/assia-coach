@@ -19,7 +19,7 @@ const Companies = () => {
 							className="grid place-items-center">
 							<Image
 								src={company}
-								alt=""
+								alt="image"
 							/>
 						</li>
 					))}
