@@ -8,31 +8,31 @@ import Image from "next/image";
 const Testimonials = () => {
 	const testimonialData = [
 		{
-			name: "Howard Woods",
-			jobTitle: "Lead Developer",
+			name: "Sophia Miller",
+			jobTitle: "Project Manager",
 			comment:
-				"I struggled with public speaking until I started working with Joanna. Her coaching on presentations and cultural differences was eye-opening. Learning how to give and receive constructive feedback has also improved my relationships at work. I can't thank her enough for her guidance.",
+				"Fiona's leadership coaching transformed the way I approach team dynamics. Her insights on decision-making and emotional intelligence have not only improved my confidence but also enhanced my team's productivity. I’m truly grateful for her guidance.",
 		},
 		{
-			name: "Pamela Allen",
+			name: "Olivia Thompson",
 			jobTitle: "Entrepreneur",
 			comment:
-				"Joanna's coaching on public speaking and presentations was incredibly effective. Her tips on navigating cultural differences and giving constructive feedback have enhanced my communication skills significantly. I feel more confident and competent in my professional interactions.",
-		},
-	
-		{
-			name: "Joshua Hawkins",
-			jobTitle: "Influencer",
-			comment:
-				"The coaching I received from Joanna on career change and motivation was outstanding. She provided practical advice for gaining recognition and managing difficult conversations. I now approach these challenges with confidence and a clear strategy. Her coaching made all the difference.",
+				"Fiona's tailored coaching sessions helped me overcome challenges in leading my growing business. Her strategies for effective communication and resilience in leadership have been invaluable. I feel more equipped to lead with purpose and clarity.",
 		},
 		{
-			name: "Lisa Guerrero",
-			jobTitle: "Head of Marketing",
+			name: "Emily Carter",
+			jobTitle: "HR Specialist",
 			comment:
-				"Joanna's coaching on time management and planning has been a game-changer. Her strategies for project management and team leadership have streamlined our processes, and I feel more in control of my workload than ever before. Highly recommend her sessions!",
+				"Working with Fiona was a game-changer for my career. Her workshops on conflict resolution and team collaboration provided me with actionable tools that I use daily. I highly recommend her to anyone looking to elevate their leadership skills.",
+		},
+		{
+			name: "Isabella Davis",
+			jobTitle: "Team Leader",
+			comment:
+				"Fiona's coaching style is inspiring and practical. She helped me identify my strengths as a leader and showed me how to leverage them effectively. Her approach to goal-setting and motivation has been transformative for both me and my team.",
 		},
 	];
+	
 	return (
 		<section className="">
 			<div className="flex gap-10 lg:flex-row flex-col px-10 lg:w-11/12 mx-auto py-24">

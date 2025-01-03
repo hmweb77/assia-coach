@@ -17,9 +17,9 @@ const About = () => {
 						Helping You Create A Life <br /> that Aligns with Your Values <br /> and Passions
 					</HeadingText>
 					<ParagraphText>
-					Hello, I'm Joanna. I’m a graduate Social Psychologist with extensive experience in Team Management within international corporations and Non-Profit organizations. Currently, I am working as a Project Manager for global projects, bringing innovative solutions to complex challenges.
-					In my free time, I share my knowledge and experience by managing Public Speaking Clubs as the Division Director at Toastmasters Lisbon. This role allows me to connect with individuals passionate about personal development and effective communication.
-					</ParagraphText>
+					Hello, I'm Fiona , a certified Leadership Coach with a degree in Organizational Psychology and a passion for empowering individuals to reach their full potential. With years of experience in leadership development and team dynamics, I help professionals build confidence, improve communication, and lead with authenticity and impact.
+
+My approach combines proven strategies with a deep understanding of personal growth, allowing my clients to overcome challenges, inspire their teams, and achieve meaningful results. Outside of coaching, I lead workshops and speak at events on topics such as emotional intelligence, resilience, and transformative leadership.</ParagraphText>
 
 				</div>
 			</div>

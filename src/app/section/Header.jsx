@@ -40,7 +40,7 @@ const Header = () => {
 				<Link
 					href="/"
 					className="flex items-center gap-2 text-xl font-semibold w-24">
-								<Image src={logo} alt="logo" className="flex items-center gap-2 text-xl font-semibold"/>
+							Coach
 				</Link>
 				
 				<nav
